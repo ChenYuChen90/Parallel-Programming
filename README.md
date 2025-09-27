@@ -4,4 +4,4 @@
 4. MPI Programming
 5. CUDA Programming
 6. OpenCL Programming
-Final Project: Parallelizing QEM Mesh Simplification
+7. Final Project: Parallelizing QEM Mesh Simplification
